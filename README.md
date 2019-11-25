@@ -7,10 +7,10 @@ Youtube:
 
 * [Go Concurency](https://talks.golang.org/2012/concurrency.slide#1) - Go Concurency
 * [Go by Example](https://gobyexample.com/) - Go by Example
-* [r/golang](https://www.reddit.com/r/golang/ popup:yes)
+* [r/golang](https://www.reddit.com/r/golang/)
 * [Controlling Array Growth in Golang](http://openmymind.net/Controlling-Array-Growth-In-Golang/) -openmind.net
 * [7 Common mistakes in Go](https://vimeopro.com/user24051491/gothamgo2014/video/115776445) Common mistakes in Go and how to avoid them by Steve Francia
-* [Go Object Oriented Design](https://nathany.com/good/) - text: https://nathany.com/good
+* [Go Object Oriented Design](https://nathany.com/good/) -  https://nathany.com/good
 * [Go on GooglePlus](https://plus.google.com/+golang) Go on Google Plus
 * [Google Talks](https://talks.golang.org/) - talks.golang.org
 * [inconshreveable](https://github.com/inconshreveable/gonative) - Go Cross Compilation
