@@ -1,5 +1,5 @@
 # my-awesome-go
-My list of awesome GO resourcesöäü
+My list of awesome GO resources
 
 Youtube:
 * [GopherConAU 2019](https://www.youtube.com/watch?v=6oF0UblqkGs) - GopherConAU 2019 - Carmen Andoh - 10 Years of GO
