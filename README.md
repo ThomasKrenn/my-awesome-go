@@ -16,3 +16,7 @@ Youtube:
 * [inconshreveable](https://github.com/inconshreveable/gonative) - Go Cross Compilation
 * [www.oreilly.com](https://www.oreilly.com/ideas/how-to-ship-production-grade-go) - how-to-ship-production-grade-go
 * [Russ Cox](https://research.swtch.com/) - Russ Cox
+* [awesome-go](https://awesome-go.com/) awesome-go website
+
+Misc<br>
+* [sqlboiler](https://github.com/volatiletech/sqlboiler) - Volatile Tech SQL Boiler; good and fast for existing schemas
