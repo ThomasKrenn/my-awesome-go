@@ -20,3 +20,4 @@ Youtube:
 
 Misc<br>
 * [sqlboiler](https://github.com/volatiletech/sqlboiler) - Volatile Tech SQL Boiler; good and fast for existing schemas
+* [LZW](https://github.com/hhrutter/lzw) LZW Encoder/Decoder
