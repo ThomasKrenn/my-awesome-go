@@ -8,7 +8,7 @@ A curated list of awesome Go resources. Inspired by awesome-... stuff.
 * [pkg.go.dev](https://pkg.go.dev/) Information about Go packages and modules
 
 ## Examples
-* [golang.org Tour] (https://tour.golang.org/) - Go Tour
+* [Go Tour](https://tour.golang.org/) - Go Tour
 * [Go by Example](https://gobyexample.com/) - Go by Example
 * [Go Web Examples](https://gowebexamples.com/) - Go Web Examples
 
@@ -22,7 +22,7 @@ A curated list of awesome Go resources. Inspired by awesome-... stuff.
 ## Videos
 * [GopherConAU 2019](https://www.youtube.com/watch?v=6oF0UblqkGs) - GopherConAU 2019 - Carmen Andoh - 10 Years of GO
 * [Gopher Academy](https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA) -  Gopher Academy
-* [7 Common mistakes in Go](https://vimeopro.com/user24051491/gothamgo2014/video/115776445) Common mistakes in Go and how to avoid them by Steve Francia
+* [7 Common mistakes in Go](https://www.youtube.com/watch?v=29LLRKIL_TI) Common mistakes in Go and how to avoid them by Steve Francia
 
 ## Go Developers (Github)
 * [Steve Francia](https://github.com/spf13) - Steve Francia
