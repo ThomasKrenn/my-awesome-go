@@ -39,4 +39,5 @@ A curated list of awesome Go resources. Inspired by awesome-... stuff.
 * [Go Slices are Fat Pointers](https://nullprogram.com/blog/2019/06/30/) - Go Slices are Fat Pointers
 * [SQLBoiler](https://github.com/volatiletech/sqlboiler) - SQLBoiler is a tool to generate a Go ORM tailored to your database schema; good and fast for existing schemas
 * [LZW](https://github.com/hhrutter/lzw) LZW Encoder/Decoder
+* [Echo Web Framework](https://echo.labstack.com/) - High performance, extensible, minimalist Go web framework
 
