@@ -6,6 +6,7 @@ A curated list of awesome Go resources. Inspired by awesome-... stuff.
 * [golang.org](https://golang.org) - Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
 * [go.dev](https://go.dev/) - Go for Developers
 * [pkg.go.dev](https://pkg.go.dev/) Information about Go packages and modules
+* [go1.18](https://go.dev/doc/go1.18) Go 1.18 includes an implementation of generic features. (Requires Linux kernel version 2.6.32 or later.)
 
 ## Examples
 * [Go Tour](https://tour.golang.org/) - Go Tour
