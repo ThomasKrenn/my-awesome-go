@@ -35,6 +35,7 @@ A curated list of awesome Go resources. Inspired by awesome-... stuff.
 * [awesome-go](https://awesome-go.com/) awesome-go website
 
 ## Misc
+* [Ten Years of Go](https://blog.carlmjohnson.net/post/2023/ten-years-of-go-good-bad-meh/) - Ten Years of "Go: The Good, the Bad, and the Meh"
 * [Go Cross Compilation](https://github.com/inconshreveable/gonative) - Go Cross Compilation (inconshreveable)
 * [Controlling Array Growth in Golang](http://openmymind.net/Controlling-Array-Growth-In-Golang/) - openmind.net
 * [Go Slices are Fat Pointers](https://nullprogram.com/blog/2019/06/30/) - Go Slices are Fat Pointers
